@@ -8,6 +8,11 @@ This MVP application combines clothing segmentation and outfit recommendation us
 2. **Wardrobe Management**: Add segmented clothing items to a virtual wardrobe.
 3. **Outfit Recommendation**: Generate outfit recommendations based on clothing items in your wardrobe using a content-based approach.
 
+## Example Clothing Segmentation
+![segmented_upload_20250524_194552_b086f87e](https://github.com/user-attachments/assets/91af5f1c-8f65-4411-9c8c-9ae7fb428be0)
+
+
+
 ## Installation
 
 1. Clone this repository:
